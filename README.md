@@ -1,1 +1,1 @@
-first readme
+shell permissions
